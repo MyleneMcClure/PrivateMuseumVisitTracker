@@ -131,13 +131,13 @@ All computations on encrypted data preserve privacy while enabling analytics.
 
 Watch the system in action:
 
-![Demo Video](Demo Video.mp4)
+![Demo Video](PrivateMuseumVisitTracker.mp4)
 
 ## 📸 On-Chain Transaction Screenshot
 
 Verified blockchain transactions showing the system in operation:
 
-![Transaction Screenshot](Transaction Screenshot.png)
+![Transaction Screenshot](PrivateMuseumVisitTracker.png)
 
 ## 🎓 Use Cases
 
